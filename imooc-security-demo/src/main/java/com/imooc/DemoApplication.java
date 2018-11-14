@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.RestController;
  *
  */
 
-@SpringBootApplication
+
 @RestController
+@SpringBootApplication
 public class DemoApplication {
 
 	/**
